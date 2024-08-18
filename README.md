@@ -14,7 +14,7 @@ This project demonstrates how to optimize memory usage in Node.js when working w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alimansoori71/memory-optimization.git
+   git clone https://github.com/alimansoori/memory-optimization.git
    cd memory-optimization
    ```
 
